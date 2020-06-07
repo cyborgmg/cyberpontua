@@ -3,7 +3,7 @@
 
     <groupId>com.github.cyborgmg</groupId>
     <artifactId>cyberpontua</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
 
     <name>cyberpontua</name>
     <description>sheduler minute in minute</description>
@@ -50,7 +50,7 @@
       <connection>scm:git:https://github.com/cyborgmg/cyberpontua.git</connection>
       <developerConnection>scm:git:https://github.com/cyborgmg/cyberpontua.git</developerConnection>
       <url>https://github.com/cyborgmg/cyberpontua</url>
-  	  <tag>master</tag>
+  	  <tag>cyberpontua-0.0.1</tag>
     </scm>
 	
 	<distributionManagement>
