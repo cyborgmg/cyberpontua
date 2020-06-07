@@ -3,10 +3,10 @@
 
     <groupId>com.github.cyborgmg</groupId>
     <artifactId>cyberpontua</artifactId>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>0.0.1-SNAPSHOT</version>
 
     <name>cyberpontua</name>
-    <description>sheduler minute in minute</description>
+    <description>pontuaçao de match entre frases</description>
     <url>https://github.com/cyborgmg/cyberpontua</url>
 	
 	<licenses>
